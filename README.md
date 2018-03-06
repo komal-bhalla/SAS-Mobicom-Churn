@@ -30,4 +30,4 @@ Step-3: Data Preparation
 
 Step-4: Model Building:
 
-Data Prep: Prepare the data for logistic regression. Modelling: Part 1: Keep the probability threshold as 0.5. Perform Variable Selection Reporting the final logistic regression model. Reporting the performance metrics - Accuracy.
+Data Prep: Prepare the data for logistic regression. Modelling: Part 1: Keep the probability threshold as 0.5. Perform Variable Selection. Reporting the final logistic regression model. Reporting the performance metrics - Accuracy.
